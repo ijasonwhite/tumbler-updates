@@ -1,6 +1,15 @@
 {
   "version": "0.5.0",
-  "notes": "Initial feed. The first published release will replace this file.",
-  "pub_date": "2026-08-28T00:00:00Z",
-  "platforms": {}
+  "notes": "- The app is now called **Tumbler**.\n- Form fields now appear in their correct position and size, matching the\n  layout of the original document (fixes forms such as the UK N244 where every\n  box was drawn at the left edge).\n- Reordering pages by dragging thumbnails now works reliably, with a clear\n  blue insertion line showing exactly where the page will land.\n- Clicking an existing sticky-note icon now opens the note instead of adding\n  a new one on top of it.\n- Automatic updates: Tumbler now checks for new versions and offers to\n  install them.",
+  "pub_date": "2026-08-28T13:24:24Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm5ORkJiNTY3VDRLQWxRNWVSYmRsT0VHdDhiZ3plRk1WTjNOQ2FhdXZCcS85RUJZOENUVjJsQ3VyVmRuNDVyYVNxWE1od1ZzaVZZM0U0NXBZb3N6c0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTIzNDM2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnNuVTZ3Wjg0eGwvNTgzcU9yWG1reDFyR0lkYXBBK2NZUmZUWVZTcmtlcEFGY2pSUW56dkFxS3pJL0JaeUphRE5HK2Z2UFg3aFBSRjRUV1M1MWJ1REJBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.0/Tumbler-0.5.0.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm5ORkJiNTY3VDRLQWxRNWVSYmRsT0VHdDhiZ3plRk1WTjNOQ2FhdXZCcS85RUJZOENUVjJsQ3VyVmRuNDVyYVNxWE1od1ZzaVZZM0U0NXBZb3N6c0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTIzNDM2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnNuVTZ3Wjg0eGwvNTgzcU9yWG1reDFyR0lkYXBBK2NZUmZUWVZTcmtlcEFGY2pSUW56dkFxS3pJL0JaeUphRE5HK2Z2UFg3aFBSRjRUV1M1MWJ1REJBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.0/Tumbler-0.5.0.app.tar.gz"
+    }
+  }
 }
