@@ -1,15 +1,15 @@
 {
-  "version": "0.5.4",
-  "notes": "- Fixed: reopening a saved form no longer shows each typed value twice (a\n  faint ghost copy behind the field). Printed and thumbnail pages still show\n  the filled-in values.",
-  "pub_date": "2026-08-28T17:32:49Z",
+  "version": "0.5.5",
+  "notes": "- Boxed character fields (like postcode grids) now place one character per\n  box, matching Acrobat.\n- Documents now open at \"Fit page\" by default; choose \"Fit width\" instead in\n  Settings.",
+  "pub_date": "2026-08-28T17:40:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJYUVpKbUlUUG91UG5yRk5Hc21NTFdWMmR1ZlpwT2tXbVpOVlppS3ZwVjdaK0p1akcrR0FreDdwYS9Kd0hIMlBxR1RGNHVIL2oreFZxV1pzZkRHYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM4MzY1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnNmeHE0T2dVb3FNT01weWtUQzFzbk45bTZvYW40TTlnWkFHT0wzU2xVaHUwaDhRVWs2WXNJSjNIMHVFZ2VMdTRSMkJ4RW5pM2dXZ1pZekVka0M0VkJRPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.4/Tumbler-0.5.4.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnB3SURGczgwL0t2TnVBVm9mRlJKZ2JBVVNyaUx3OU00YndvOVc0dmI1UGJOK1NWN0JGazZLVThyL3hmbXFKQUtKMm9XZmpJUXdPWDdiWGs0UENwOGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM4ODQyCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClVDU1U5WEZLcm40cnFuZ3VZM3BSRzFqQmUzdWVrcU4wK2JkbU5TRm9xd0dDcTB2U1BnRThBbGVJcnZMdjRQL0ZIYjAzV0RqYmIxMDZCRlhUTWVMQkNBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.5/Tumbler-0.5.5.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJYUVpKbUlUUG91UG5yRk5Hc21NTFdWMmR1ZlpwT2tXbVpOVlppS3ZwVjdaK0p1akcrR0FreDdwYS9Kd0hIMlBxR1RGNHVIL2oreFZxV1pzZkRHYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM4MzY1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnNmeHE0T2dVb3FNT01weWtUQzFzbk45bTZvYW40TTlnWkFHT0wzU2xVaHUwaDhRVWs2WXNJSjNIMHVFZ2VMdTRSMkJ4RW5pM2dXZ1pZekVka0M0VkJRPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.4/Tumbler-0.5.4.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnB3SURGczgwL0t2TnVBVm9mRlJKZ2JBVVNyaUx3OU00YndvOVc0dmI1UGJOK1NWN0JGazZLVThyL3hmbXFKQUtKMm9XZmpJUXdPWDdiWGs0UENwOGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM4ODQyCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClVDU1U5WEZLcm40cnFuZ3VZM3BSRzFqQmUzdWVrcU4wK2JkbU5TRm9xd0dDcTB2U1BnRThBbGVJcnZMdjRQL0ZIYjAzV0RqYmIxMDZCRlhUTWVMQkNBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.5/Tumbler-0.5.5.app.tar.gz"
     }
   }
 }
