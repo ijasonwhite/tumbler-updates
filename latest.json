@@ -1,15 +1,15 @@
 {
-  "version": "0.5.8",
-  "notes": "- Toolbar buttons now use icons, with a Settings choice of icons, icons with\n  text, or text only. Buttons grey out when they can't be used (nothing to\n  save, zoom at its limit, first/last page).\n- The page background colour from Settings now applies to the thumbnail\n  sidebar too.\n- The window remembers its size and position between launches.\n- Fixed the annotation colour dots squashing into ovals in narrow windows.",
-  "pub_date": "2026-08-28T17:59:02Z",
+  "version": "0.5.9",
+  "notes": "- The Signature window now fits its drawing pad properly (no more clipped\n  pad or horizontal scrollbar), and dialogs size correctly on any display.",
+  "pub_date": "2026-08-28T18:03:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm9vRjJqY2pyc3V1OEZ6TGF3bEdlbmxHQXd6ZC9mZzg2R2lmQ2JmVG9Vc0ZnTVZoRkdiVWdFLzkwYTBZaEtlT3g5bHhMK1RUWFdDTXBZUXF4Vmx1QkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5OTM4CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClZlT3hncTRnejhLZjlwWHE5c2NKUTI2bFZsS2lnSmZYWEJGY0N1SjkrOEpFNFRIVnliWEVBMWJJV0hDSWZkcUdjY0Y3QUdoQjdJd0R6K1o0UTlKWUNRPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.8/Tumbler-0.5.8.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpGZWFTUG5lY3RQVEU5L1A5NXRhZ0kxUDdxbUczSmdQTVd4VVpQR0JyS3BWcTlSMkFhY2YwSzc4M08wYTNuVkxxVElmWFpXdjJydW12ZXdqdjdCSEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwMTg0CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnFCTXdzOWc1SDFuWmx2VEpNeE1VU2FqQzUyRDBDanp0YnMvYTZvWU5laGpENkxxN0hrSE52QXJhbC9EeDNaeWFUSzRjTHNsRFkzMS9xcGt6cXFiL0R3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.9/Tumbler-0.5.9.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm9vRjJqY2pyc3V1OEZ6TGF3bEdlbmxHQXd6ZC9mZzg2R2lmQ2JmVG9Vc0ZnTVZoRkdiVWdFLzkwYTBZaEtlT3g5bHhMK1RUWFdDTXBZUXF4Vmx1QkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5OTM4CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClZlT3hncTRnejhLZjlwWHE5c2NKUTI2bFZsS2lnSmZYWEJGY0N1SjkrOEpFNFRIVnliWEVBMWJJV0hDSWZkcUdjY0Y3QUdoQjdJd0R6K1o0UTlKWUNRPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.8/Tumbler-0.5.8.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpGZWFTUG5lY3RQVEU5L1A5NXRhZ0kxUDdxbUczSmdQTVd4VVpQR0JyS3BWcTlSMkFhY2YwSzc4M08wYTNuVkxxVElmWFpXdjJydW12ZXdqdjdCSEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwMTg0CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnFCTXdzOWc1SDFuWmx2VEpNeE1VU2FqQzUyRDBDanp0YnMvYTZvWU5laGpENkxxN0hrSE52QXJhbC9EeDNaeWFUSzRjTHNsRFkzMS9xcGt6cXFiL0R3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.9/Tumbler-0.5.9.app.tar.gz"
     }
   }
 }
