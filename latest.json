@@ -1,15 +1,15 @@
 {
-  "version": "0.5.6",
-  "notes": "- Fixed sticky notes: clicking into a note no longer creates a hidden\n  duplicate, typed text stays on the note you're editing, and notes save\n  with their text intact.",
-  "pub_date": "2026-08-28T17:51:14Z",
+  "version": "0.5.7",
+  "notes": "- Dragging a page thumbnail now shows the page floating under your cursor\n  while you drag, alongside the blue insertion bar marking the drop point.",
+  "pub_date": "2026-08-28T17:54:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnQ3K1RvclY2MjhWbjQ3MTNSYkZ6dnRGM0kzWm9DTG85U1VuVUthQXdaYU1sQXN0SGhXdDBlUWZoazdMMXlJUllDdGRTdWtJWGJDMDhLVXdXSzd2VlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5NDcwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkVJSXNyZlpwd3pCSnNmUnkxS1B2WlNpZFUremM1TmFMSE92RC93V0EreUp4YkxNclRnWUpKS0M0RXlaaWM3eWVrdWZISDBmQlFGdmFVanhDWWc4b0N3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.6/Tumbler-0.5.6.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm5RUjJMTjBjUDZiOU1TdWZyc1NHaWczLy9JN21TdGErVnRqbXVCOHpGL1FGVkZlMWhDUGF2YVloR3RQWkQ3bUhuZ2dUYkZtV0hiY3JkRGJhOG9KV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5NjY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnkrbjZVZ3hMSmFIWGYrVjBpMEY5VzVmTnVLVkF0ZnJSZE1jSUpLL1RQbkl2dzk2VU1FU3Z1alhkT2ZvZTcvQVNCVW5EN0VlL1JZMWluOUZRbnFMbkN3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.7/Tumbler-0.5.7.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnQ3K1RvclY2MjhWbjQ3MTNSYkZ6dnRGM0kzWm9DTG85U1VuVUthQXdaYU1sQXN0SGhXdDBlUWZoazdMMXlJUllDdGRTdWtJWGJDMDhLVXdXSzd2VlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5NDcwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkVJSXNyZlpwd3pCSnNmUnkxS1B2WlNpZFUremM1TmFMSE92RC93V0EreUp4YkxNclRnWUpKS0M0RXlaaWM3eWVrdWZISDBmQlFGdmFVanhDWWc4b0N3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.6/Tumbler-0.5.6.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm5RUjJMTjBjUDZiOU1TdWZyc1NHaWczLy9JN21TdGErVnRqbXVCOHpGL1FGVkZlMWhDUGF2YVloR3RQWkQ3bUhuZ2dUYkZtV0hiY3JkRGJhOG9KV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM5NjY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnkrbjZVZ3hMSmFIWGYrVjBpMEY5VzVmTnVLVkF0ZnJSZE1jSUpLL1RQbkl2dzk2VU1FU3Z1alhkT2ZvZTcvQVNCVW5EN0VlL1JZMWluOUZRbnFMbkN3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.7/Tumbler-0.5.7.app.tar.gz"
     }
   }
 }
