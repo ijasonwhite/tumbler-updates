@@ -1,15 +1,15 @@
 {
-  "version": "0.5.9",
-  "notes": "- The Signature window now fits its drawing pad properly (no more clipped\n  pad or horizontal scrollbar), and dialogs size correctly on any display.",
-  "pub_date": "2026-08-28T18:03:08Z",
+  "version": "0.5.10",
+  "notes": "- File \u25b8 Save As\u2026 (\u2318\u21e7S) saves the document to a new location or filename and\n  keeps working in the new file.",
+  "pub_date": "2026-08-28T18:11:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpGZWFTUG5lY3RQVEU5L1A5NXRhZ0kxUDdxbUczSmdQTVd4VVpQR0JyS3BWcTlSMkFhY2YwSzc4M08wYTNuVkxxVElmWFpXdjJydW12ZXdqdjdCSEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwMTg0CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnFCTXdzOWc1SDFuWmx2VEpNeE1VU2FqQzUyRDBDanp0YnMvYTZvWU5laGpENkxxN0hrSE52QXJhbC9EeDNaeWFUSzRjTHNsRFkzMS9xcGt6cXFiL0R3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.9/Tumbler-0.5.9.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmhLdnFpUlNtdHVOanZ6VlF0WDdZRmJLVzBQUm04cWpsVjVtWnhIT2M3Y25sclMwaVVwcVRrVy9HYy9Nb01NenVDQlFpY0c0a3N3REk0UmNnSmlraGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwNjg3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmtCSFhHK1NkVU9rNG1HKzJPaWFRUXRoOVBnQUJna0ZhTUNjZ0JISVBwVzJSR2hwMnJYWEorMTF0NWxYaHBVNjNZM041dkJsSFR5dFRqZ2RPcVFxWURRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.10/Tumbler-0.5.10.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpGZWFTUG5lY3RQVEU5L1A5NXRhZ0kxUDdxbUczSmdQTVd4VVpQR0JyS3BWcTlSMkFhY2YwSzc4M08wYTNuVkxxVElmWFpXdjJydW12ZXdqdjdCSEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwMTg0CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnFCTXdzOWc1SDFuWmx2VEpNeE1VU2FqQzUyRDBDanp0YnMvYTZvWU5laGpENkxxN0hrSE52QXJhbC9EeDNaeWFUSzRjTHNsRFkzMS9xcGt6cXFiL0R3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.9/Tumbler-0.5.9.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmhLdnFpUlNtdHVOanZ6VlF0WDdZRmJLVzBQUm04cWpsVjVtWnhIT2M3Y25sclMwaVVwcVRrVy9HYy9Nb01NenVDQlFpY0c0a3N3REk0UmNnSmlraGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwNjg3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmtCSFhHK1NkVU9rNG1HKzJPaWFRUXRoOVBnQUJna0ZhTUNjZ0JISVBwVzJSR2hwMnJYWEorMTF0NWxYaHBVNjNZM041dkJsSFR5dFRqZ2RPcVFxWURRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.10/Tumbler-0.5.10.app.tar.gz"
     }
   }
 }
