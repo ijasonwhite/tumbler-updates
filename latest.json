@@ -1,15 +1,15 @@
 {
-  "version": "0.5.3",
-  "notes": "- Tumbler can now be set as your default PDF app: double-clicking a PDF in\n  Finder (or using Open With) opens it in Tumbler, including files opened\n  while the app is starting up.",
-  "pub_date": "2026-08-28T15:58:46Z",
+  "version": "0.5.4",
+  "notes": "- Fixed: reopening a saved form no longer shows each typed value twice (a\n  faint ghost copy behind the field). Printed and thumbnail pages still show\n  the filled-in values.",
+  "pub_date": "2026-08-28T17:32:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBBVzAxN2M5QmJnejd1SWErVmNyNVJKMHFNb3F2SEVpRVJYQ2VUNUEyczdtbm9qd3NGRkQrZ3djQ1F3UHp3eXdHNzkrUC9NU2NleTVaWFI4cUdwMVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTMyNzA2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmFxVVp6WW5zK20vQzlTTm95UyszdEl0a2w4VVlRelBXSjR4eUxUUDRsMFFwaXg3VVlFZzJTRklRSGpiVG9rT2hVRllOL1EwYWZ0YlYzSmczbGt4ZkFBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.3/Tumbler-0.5.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJYUVpKbUlUUG91UG5yRk5Hc21NTFdWMmR1ZlpwT2tXbVpOVlppS3ZwVjdaK0p1akcrR0FreDdwYS9Kd0hIMlBxR1RGNHVIL2oreFZxV1pzZkRHYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM4MzY1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnNmeHE0T2dVb3FNT01weWtUQzFzbk45bTZvYW40TTlnWkFHT0wzU2xVaHUwaDhRVWs2WXNJSjNIMHVFZ2VMdTRSMkJ4RW5pM2dXZ1pZekVka0M0VkJRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.4/Tumbler-0.5.4.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBBVzAxN2M5QmJnejd1SWErVmNyNVJKMHFNb3F2SEVpRVJYQ2VUNUEyczdtbm9qd3NGRkQrZ3djQ1F3UHp3eXdHNzkrUC9NU2NleTVaWFI4cUdwMVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTMyNzA2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmFxVVp6WW5zK20vQzlTTm95UyszdEl0a2w4VVlRelBXSjR4eUxUUDRsMFFwaXg3VVlFZzJTRklRSGpiVG9rT2hVRllOL1EwYWZ0YlYzSmczbGt4ZkFBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.3/Tumbler-0.5.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJYUVpKbUlUUG91UG5yRk5Hc21NTFdWMmR1ZlpwT2tXbVpOVlppS3ZwVjdaK0p1akcrR0FreDdwYS9Kd0hIMlBxR1RGNHVIL2oreFZxV1pzZkRHYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM4MzY1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnNmeHE0T2dVb3FNT01weWtUQzFzbk45bTZvYW40TTlnWkFHT0wzU2xVaHUwaDhRVWs2WXNJSjNIMHVFZ2VMdTRSMkJ4RW5pM2dXZ1pZekVka0M0VkJRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.4/Tumbler-0.5.4.app.tar.gz"
     }
   }
 }
