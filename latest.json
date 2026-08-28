@@ -1,15 +1,15 @@
 {
-  "version": "0.5.1",
-  "notes": "- Form fields are now tinted (Acrobat-style mauve by default) so it's easy to\n  see where you can type. Choose a different colour \u2014 or turn it off \u2014 in the\n  new Settings panel.\n- New page background option for viewing comfort: soften the white page to a\n  soft, sepia or grey tone. Display only \u2014 saved and printed PDFs stay\n  exactly as they were.\n- New Settings panel (gear icon in the toolbar): field highlight colour, page\n  background, and automatic update checks.\n- Court forms and other Reader-extended PDFs (such as the UK N244) no longer\n  show an \"extended features are no longer available\" error in Adobe Acrobat\n  after saving from Tumbler.",
-  "pub_date": "2026-08-28T13:36:23Z",
+  "version": "0.5.2",
+  "notes": "- Fixed: filled-in form fields were not written into the saved PDF by the\n  packaged app. Form values now save reliably.\n- Digitally signed PDFs now show a shield in the status bar: green when the\n  document is unchanged since signing, amber when it has been modified.\n  (Tumbler does not verify signing certificates.)",
+  "pub_date": "2026-08-28T14:38:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmdWQ2tmWmJZOEVQMkQ1TzdPUUtzdGp2ckR1OVVkbWRUTXNRV3BkcC83TnRra2NRdWptdkQydjJGTGFVQW50UUlqcGRhSGhOVXg4QXNqazcxRkxTV0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTI0MTY1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmNaNk0xYjZqZlR1d1VwYlJqLzgzVnVVTHR2MkdIQjZlektRNUFNRjR2ME8ydkFVRDdON2hHbEx4dUVydlNXbHJLOFBWYlZhRndnbjRhQ2V5RnF4YUN3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.1/Tumbler-0.5.1.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnZqMDVNMmVCL0lIQ2RxMmZtKy81T3Z3R29RUzBKRFNJUldlMnptellGN0lUdG13M3NxekExZTl4VlB4dVBYSkgwcjhXTEQ5YXBnSFNpdTVibWx4NndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTI3ODc3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClFQL0R2MUs0N2t0YnpMdG5LZUszemN1N3F1dFFVRGlyRzEreXA3akVsQTAxYTZMNUl4SzJXL1pMVVVEaU81R1Q5SnNEN2FXZENpazB2U0JKamRzTkF3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.2/Tumbler-0.5.2.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmdWQ2tmWmJZOEVQMkQ1TzdPUUtzdGp2ckR1OVVkbWRUTXNRV3BkcC83TnRra2NRdWptdkQydjJGTGFVQW50UUlqcGRhSGhOVXg4QXNqazcxRkxTV0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTI0MTY1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmNaNk0xYjZqZlR1d1VwYlJqLzgzVnVVTHR2MkdIQjZlektRNUFNRjR2ME8ydkFVRDdON2hHbEx4dUVydlNXbHJLOFBWYlZhRndnbjRhQ2V5RnF4YUN3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.1/Tumbler-0.5.1.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnZqMDVNMmVCL0lIQ2RxMmZtKy81T3Z3R29RUzBKRFNJUldlMnptellGN0lUdG13M3NxekExZTl4VlB4dVBYSkgwcjhXTEQ5YXBnSFNpdTVibWx4NndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTI3ODc3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClFQL0R2MUs0N2t0YnpMdG5LZUszemN1N3F1dFFVRGlyRzEreXA3akVsQTAxYTZMNUl4SzJXL1pMVVVEaU81R1Q5SnNEN2FXZENpazB2U0JKamRzTkF3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.2/Tumbler-0.5.2.app.tar.gz"
     }
   }
 }
