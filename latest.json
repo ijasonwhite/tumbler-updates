@@ -1,15 +1,15 @@
 {
-  "version": "0.5.10",
-  "notes": "- File \u25b8 Save As\u2026 (\u2318\u21e7S) saves the document to a new location or filename and\n  keeps working in the new file.",
-  "pub_date": "2026-08-28T18:11:31Z",
+  "version": "0.5.11",
+  "notes": "- New page grid: click the grid button in the toolbar to see every page at\n  once, drag pages to rearrange them, and double-click a page to jump to it.\n- Right-click a page thumbnail and choose \"Move to\u2026\" to send a page straight\n  to a typed position.\n- Windows copies now receive automatic updates, just like the Mac version.",
+  "pub_date": "2026-09-01T12:12:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmhLdnFpUlNtdHVOanZ6VlF0WDdZRmJLVzBQUm04cWpsVjVtWnhIT2M3Y25sclMwaVVwcVRrVy9HYy9Nb01NenVDQlFpY0c0a3N3REk0UmNnSmlraGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwNjg3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmtCSFhHK1NkVU9rNG1HKzJPaWFRUXRoOVBnQUJna0ZhTUNjZ0JISVBwVzJSR2hwMnJYWEorMTF0NWxYaHBVNjNZM041dkJsSFR5dFRqZ2RPcVFxWURRPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.10/Tumbler-0.5.10.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm4vUEVSR0N1Zk5vbDhxTUVpU2hYODdaSFN6b0RZbWMyVk9wMVFkTGtWOXJrTDdSWGY3REhrcDFuTStlbmdxZmhmSzhIanFWWXVGdzQ4bHBUcTBUV0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY0NzIxCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkpPNUNzd05BSk0yNTlpWGtFd0h0bGhFQzA3c3Y0QU0rNTFtMWUxZnFXTFVMcUJHYS9kVUZYUFo3cVBEcjFZN2k5RUc5V1dpZDVzeUxEL1hsMUJJR0J3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.11/Tumbler-0.5.11.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmhLdnFpUlNtdHVOanZ6VlF0WDdZRmJLVzBQUm04cWpsVjVtWnhIT2M3Y25sclMwaVVwcVRrVy9HYy9Nb01NenVDQlFpY0c0a3N3REk0UmNnSmlraGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQwNjg3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmtCSFhHK1NkVU9rNG1HKzJPaWFRUXRoOVBnQUJna0ZhTUNjZ0JISVBwVzJSR2hwMnJYWEorMTF0NWxYaHBVNjNZM041dkJsSFR5dFRqZ2RPcVFxWURRPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.10/Tumbler-0.5.10.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm4vUEVSR0N1Zk5vbDhxTUVpU2hYODdaSFN6b0RZbWMyVk9wMVFkTGtWOXJrTDdSWGY3REhrcDFuTStlbmdxZmhmSzhIanFWWXVGdzQ4bHBUcTBUV0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY0NzIxCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkpPNUNzd05BSk0yNTlpWGtFd0h0bGhFQzA3c3Y0QU0rNTFtMWUxZnFXTFVMcUJHYS9kVUZYUFo3cVBEcjFZN2k5RUc5V1dpZDVzeUxEL1hsMUJJR0J3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.11/Tumbler-0.5.11.app.tar.gz"
     }
   }
 }
