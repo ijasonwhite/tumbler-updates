@@ -1,19 +1,15 @@
 {
-  "version": "0.5.14",
-  "notes": "- Windows: double-clicking a PDF or using \"Open with\" now opens the file in\n  Tumbler, and opening a file while Tumbler is already running brings the\n  existing window forward with the document loaded instead of starting a\n  second empty copy.",
-  "pub_date": "2026-09-02T08:59:46Z",
+  "version": "0.5.15",
+  "notes": "- Save and Save As\u2026 now sit side by side in the toolbar as well as the File\n  menu.\n- On first launch the window opens centred, sized comfortably for your\n  screen.",
+  "pub_date": "2026-09-02T09:41:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm1GT2p4aG1CQmt1QWFKZmJ0UWU4STlaL2I2ek1TZm15OGU2akhDekdXSzQydmpTUTVBSWpjdVBjdFVWckVnU0NQOElMM2Y2ODQxL3lzakhhb0VQM1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzM5NTc5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnZQNDc5SDFQaWNSWDVhNjM1UUo1TG5VUEM0ZlVOVUxZMUJMeTAxdDE2RC83S0VpY2NKby9scW5PUXFEdDZGditvTE9hWW5zNTJSOTU4WnZQZDRSdkJ3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.14/Tumbler-0.5.14.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmh4STJwQ1pnZHpjblRrellkV1BrRVd2aFlpcGhRTm9GamkvNlI0Tk9QL0pQMGk4WVMvbm1zQU9sWUN5dFhza1gvamU3T0tZeHFnTHBGMHVZbURlYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQyMDU3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkMxTmdRaDN0QUpoVk44LzVxaGRuRU5CMDU0aW9CeDlnUEFHejFNaUhvVnlnTjZPY0ErUkZmSVpLNit1akREZndqSzJSOFozRXFWRkZaSjQ3WlYyc0RnPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.15/Tumbler-0.5.15.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm1GT2p4aG1CQmt1QWFKZmJ0UWU4STlaL2I2ek1TZm15OGU2akhDekdXSzQydmpTUTVBSWpjdVBjdFVWckVnU0NQOElMM2Y2ODQxL3lzakhhb0VQM1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzM5NTc5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnZQNDc5SDFQaWNSWDVhNjM1UUo1TG5VUEM0ZlVOVUxZMUJMeTAxdDE2RC83S0VpY2NKby9scW5PUXFEdDZGditvTE9hWW5zNTJSOTU4WnZQZDRSdkJ3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.14/Tumbler-0.5.14.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmlxNUFSUkhORnJCR1lyRzVxdzk5emtJQ1VtU1paemJrWjFOMWZCUUZUeERyMDNzQTNtMHJGazJRb1ViUzR3TzRHV2l4c3YwTzgxc0VMUDdFUmZqVXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQwMzI5CWZpbGU6VHVtYmxlcl8wLjUuMTRfeDY0LXNldHVwLmV4ZQpXSzdDUW1WOStCcEFqYVdnVytjazBBUzRuSGI2QmFONmc3YS9sTitSMDUxMFN2dEJBZXVxU0ErRjh3UXdhQUtjSmJuTFZ5NmxRTC9pRHVKVTAzcFdDdz09Cg==",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.14/Tumbler_0.5.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmh4STJwQ1pnZHpjblRrellkV1BrRVd2aFlpcGhRTm9GamkvNlI0Tk9QL0pQMGk4WVMvbm1zQU9sWUN5dFhza1gvamU3T0tZeHFnTHBGMHVZbURlYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQyMDU3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkMxTmdRaDN0QUpoVk44LzVxaGRuRU5CMDU0aW9CeDlnUEFHejFNaUhvVnlnTjZPY0ErUkZmSVpLNit1akREZndqSzJSOFozRXFWRkZaSjQ3WlYyc0RnPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.15/Tumbler-0.5.15.app.tar.gz"
     }
   }
 }
