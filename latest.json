@@ -1,19 +1,15 @@
 {
-  "version": "0.5.13",
-  "notes": "- The window can no longer reopen off-screen or impossibly small: if the\n  remembered size and position are unusable (for example after a display is\n  unplugged), Tumbler resets to a sensible centred window.",
-  "pub_date": "2026-09-01T12:59:42Z",
+  "version": "0.5.14",
+  "notes": "- Windows: double-clicking a PDF or using \"Open with\" now opens the file in\n  Tumbler, and opening a file while Tumbler is already running brings the\n  existing window forward with the document loaded instead of starting a\n  second empty copy.",
+  "pub_date": "2026-09-02T08:59:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm9YcEFsdmc0OUJrUk00aWtEcXZ6QTE1d1lZV256NFdvU0l4ajJZeERCY2x5cTJZMWU3eG9NSy9RU0tsMzlwbGxFSWJSSk1LdnpqZnVvejBNb21CaUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY3NTc3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClBmZ0VxZkhJbmE2R2dxejRHZGRFajlYZ3cwemNxdHR3Nm94R0F3d0J5RGR2d0dVYlJsWisvTFdSK2lIVElZZVl6UnR4TWU2Q2VFNldXaWd5UHpZWUJnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.13/Tumbler-0.5.13.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm1GT2p4aG1CQmt1QWFKZmJ0UWU4STlaL2I2ek1TZm15OGU2akhDekdXSzQydmpTUTVBSWpjdVBjdFVWckVnU0NQOElMM2Y2ODQxL3lzakhhb0VQM1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzM5NTc5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnZQNDc5SDFQaWNSWDVhNjM1UUo1TG5VUEM0ZlVOVUxZMUJMeTAxdDE2RC83S0VpY2NKby9scW5PUXFEdDZGditvTE9hWW5zNTJSOTU4WnZQZDRSdkJ3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.14/Tumbler-0.5.14.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm9YcEFsdmc0OUJrUk00aWtEcXZ6QTE1d1lZV256NFdvU0l4ajJZeERCY2x5cTJZMWU3eG9NSy9RU0tsMzlwbGxFSWJSSk1LdnpqZnVvejBNb21CaUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY3NTc3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClBmZ0VxZkhJbmE2R2dxejRHZGRFajlYZ3cwemNxdHR3Nm94R0F3d0J5RGR2d0dVYlJsWisvTFdSK2lIVElZZVl6UnR4TWU2Q2VFNldXaWd5UHpZWUJnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.13/Tumbler-0.5.13.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnRLMVh0ZXNrWEMvRzlrNXdVWmNYSlhYdXk0c28vYXNVZkJWSkRUOVRaVW43bXg5RnY5SjVnUzMycy92emordkxlRlQrMUlReXp1YmZmcG1aWEpaS1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY4MTU3CWZpbGU6VHVtYmxlcl8wLjUuMTNfeDY0LXNldHVwLmV4ZQpzaHNBMTU2U092SEtaY3lneW9FSSt3b1k0L0srOCtvbU9aaC9IN2RIUWVuK0NGUEtwQ25ocEFMVzc4ME5MWmxzOEhIbFZlTVlmZGFqNFFET2J0dkdCQT09Cg==",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.13/Tumbler_0.5.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm1GT2p4aG1CQmt1QWFKZmJ0UWU4STlaL2I2ek1TZm15OGU2akhDekdXSzQydmpTUTVBSWpjdVBjdFVWckVnU0NQOElMM2Y2ODQxL3lzakhhb0VQM1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzM5NTc5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CnZQNDc5SDFQaWNSWDVhNjM1UUo1TG5VUEM0ZlVOVUxZMUJMeTAxdDE2RC83S0VpY2NKby9scW5PUXFEdDZGditvTE9hWW5zNTJSOTU4WnZQZDRSdkJ3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.14/Tumbler-0.5.14.app.tar.gz"
     }
   }
 }
