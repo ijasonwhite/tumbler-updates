@@ -1,19 +1,15 @@
 {
-  "version": "0.5.18",
-  "notes": "- Tidied the menu bar: one File menu in the proper place, About and Check\n  for Updates in the app menu where macOS expects them, and a new\n  Settings\u2026 item (Cmd+comma) that opens the settings panel.",
-  "pub_date": "2026-09-03T20:15:27Z",
+  "version": "0.5.19",
+  "notes": "- Select multiple pages in the page grid (Ctrl/Cmd-click adds, Shift-click\n  extends), then drag the whole block to a new position, or right-click for\n  \"Move to\u2026\" and \"Delete\". Perfect for lifting a 20-page report from page 90\n  to page 40 in one go.\n- Bates numbering gains a suffix and one-click presets: witness-statement\n  style (-1- centred at the bottom) and bundle style (001 bottom right).\n- Windows: the installer now consistently installs per user, so automatic\n  updates always update the copy you launch. If you have an older copy in\n  Program Files, uninstall it once via Windows Settings and use the current\n  installer.",
+  "pub_date": "2026-09-03T21:06:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBiN1RWL01MQXVQamJ2SEs1OXhMdWpna1A0bGw0eThNdHc0MkFjbWJvWVNWSnMvZ256ZDAzSXN2dVlzTXpUSG9aRzdBWXExT0svRWNLU0R3T1lMNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY2NTE3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CktEOHZKWEx2QlRaL3Y0WDd0ZkVWNXg0bTNYT0V4STByMTRlMHhlVHdCdzl6Si9GSFh2ZjN5M3JOZ1hTVkFpdUNwcDJuMmJZZjlnV1MvTWpobmlYMUF3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.18/Tumbler-0.5.18.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnNvUzZQZ2FBUDVtTDU4Z05MOGFXRUZ5Wm5zQXVDQVFBL1JwS20yYkJGVzloSHhDK1liZlFZUGVuYVlrN251YzVEWUdCM1I3REs3N3FFYWc4MnM4VHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY5NTU4CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjBHbGtRU3g0UXNBSVcwbDlsTHRjVmMrU3lkckpDcjFYMGoxbGlyWTVjVUh4WHhOMG9wTXhIa3B0UTFDVkVzeWtCMkp1ZzY1c2p2UmlxeDRXYXhSU0JRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.19/Tumbler-0.5.19.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBiN1RWL01MQXVQamJ2SEs1OXhMdWpna1A0bGw0eThNdHc0MkFjbWJvWVNWSnMvZ256ZDAzSXN2dVlzTXpUSG9aRzdBWXExT0svRWNLU0R3T1lMNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY2NTE3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CktEOHZKWEx2QlRaL3Y0WDd0ZkVWNXg0bTNYT0V4STByMTRlMHhlVHdCdzl6Si9GSFh2ZjN5M3JOZ1hTVkFpdUNwcDJuMmJZZjlnV1MvTWpobmlYMUF3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.18/Tumbler-0.5.18.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm9Zb0RHZS92dmpGY2J1YkJCRDVzQmlIb2pwdnZhazRMUC9HU3ZLd3VVUXRXRGFMUGYybVNDb29OYnJkdEZtLzFXb2pPckc1cjZpTGpoLy9OYjBEQ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY3Mjk5CWZpbGU6VHVtYmxlcl8wLjUuMThfeDY0LXNldHVwLmV4ZQpHYmZkbHBFbHV0bk1Udis1c1hwakhuSjJwcjdNTnJEVE5acHVTU2tpdk5OclFrb0tDTHRHVTIrY1dSN3JLejRMMzN6eXR0dHJqTjU0VzlBNCs4QjBCdz09Cg==",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.18/Tumbler_0.5.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnNvUzZQZ2FBUDVtTDU4Z05MOGFXRUZ5Wm5zQXVDQVFBL1JwS20yYkJGVzloSHhDK1liZlFZUGVuYVlrN251YzVEWUdCM1I3REs3N3FFYWc4MnM4VHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY5NTU4CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjBHbGtRU3g0UXNBSVcwbDlsTHRjVmMrU3lkckpDcjFYMGoxbGlyWTVjVUh4WHhOMG9wTXhIa3B0UTFDVkVzeWtCMkp1ZzY1c2p2UmlxeDRXYXhSU0JRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.19/Tumbler-0.5.19.app.tar.gz"
     }
   }
 }
