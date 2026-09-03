@@ -1,19 +1,15 @@
 {
-  "version": "0.5.17",
-  "notes": "- Fixed the window occasionally reopening invisibly small after an automatic\n  update. A broken remembered window position is now discarded before it is\n  ever applied, and the window double-checks it is visible before showing.",
-  "pub_date": "2026-09-03T20:00:10Z",
+  "version": "0.5.18",
+  "notes": "- Tidied the menu bar: one File menu in the proper place, About and Check\n  for Updates in the app menu where macOS expects them, and a new\n  Settings\u2026 item (Cmd+comma) that opens the settings panel.",
+  "pub_date": "2026-09-03T20:15:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmdMdUFBZldITHhBYkxHc2Y4UEdkb2VDMGszb2l3ZSt5STFPVjlJMjZKVVRoTjlJOXUyVGh3WTQybHV4YS83Z20yeVFMemczeW5LWGt4Qk5iRmJLdXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY1NTk3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClJoU3oxU3hIY0JzNW81QjJpVUZyZDEycnFSU3BGalQ4cXBZeEUwellOQmIyMldpcEJaL2pudEZjVnpLcU5lWkZNMjZsTXM0U0MvUWRyMmZCS0JEaEJnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.17/Tumbler-0.5.17.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBiN1RWL01MQXVQamJ2SEs1OXhMdWpna1A0bGw0eThNdHc0MkFjbWJvWVNWSnMvZ256ZDAzSXN2dVlzTXpUSG9aRzdBWXExT0svRWNLU0R3T1lMNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY2NTE3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CktEOHZKWEx2QlRaL3Y0WDd0ZkVWNXg0bTNYT0V4STByMTRlMHhlVHdCdzl6Si9GSFh2ZjN5M3JOZ1hTVkFpdUNwcDJuMmJZZjlnV1MvTWpobmlYMUF3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.18/Tumbler-0.5.18.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmdMdUFBZldITHhBYkxHc2Y4UEdkb2VDMGszb2l3ZSt5STFPVjlJMjZKVVRoTjlJOXUyVGh3WTQybHV4YS83Z20yeVFMemczeW5LWGt4Qk5iRmJLdXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY1NTk3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClJoU3oxU3hIY0JzNW81QjJpVUZyZDEycnFSU3BGalQ4cXBZeEUwellOQmIyMldpcEJaL2pudEZjVnpLcU5lWkZNMjZsTXM0U0MvUWRyMmZCS0JEaEJnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.17/Tumbler-0.5.17.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpjaFFkeEhRVVpaYnRUc2Y4dzJKYzVWcmhjL2MxQmtrWkIzRUJObzZRc09KbzU3TkhQYzhXeER4ZUNOQ2EzcVN3eVFyUDNNV1NaM0tnS1RCWkRTemdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY2MTgyCWZpbGU6VHVtYmxlcl8wLjUuMTdfeDY0LXNldHVwLmV4ZQpEQkZ6MkYzWmt3N2VRRkNRQ3loTzdBY0h6V0liYTY0QTBrdHZ2MkZLQ3JydHMyMnMyWElBQWgrNGpwK2JVa3IvVTl6N3dYcGhkUHY3T2ZZZWVNNVVEQT09Cg==",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.17/Tumbler_0.5.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBiN1RWL01MQXVQamJ2SEs1OXhMdWpna1A0bGw0eThNdHc0MkFjbWJvWVNWSnMvZ256ZDAzSXN2dVlzTXpUSG9aRzdBWXExT0svRWNLU0R3T1lMNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDY2NTE3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CktEOHZKWEx2QlRaL3Y0WDd0ZkVWNXg0bTNYT0V4STByMTRlMHhlVHdCdzl6Si9GSFh2ZjN5M3JOZ1hTVkFpdUNwcDJuMmJZZjlnV1MvTWpobmlYMUF3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.18/Tumbler-0.5.18.app.tar.gz"
     }
   }
 }
