@@ -1,19 +1,15 @@
 {
-  "version": "0.5.20",
-  "notes": "- Print now opens the proper system print dialog on the Mac, and pages print\n  at high resolution with filled-in form values included.",
-  "pub_date": "2026-09-03T21:20:38Z",
+  "version": "0.5.21",
+  "notes": "- Fixed scanned documents opening as blank pages. Tumbler now ships the\n  image decoders that scanned court documents (JPEG2000 and JBIG2) need.\n- Fixed Bates numbering on rotated scans: labels now appear exactly where\n  you chose them, the right way up, whatever way the scanner stored the\n  page.\n- Clearer message when macOS is blocking access to a folder, with a pointer\n  to the Privacy & Security setting that fixes it.",
+  "pub_date": "2026-09-08T19:11:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmx5aG8rYXNnLytzMjloOHlkUE9MT2NxQmRLRXlPNnFrMHFibk9CRzdmQmZseGJWSWU1QTdQa0VDRDRGbEJUNDZ6TEE4L244d3lSQWVoTEU2QjRxQlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDcwNDI5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmVYcDdXTVI2c1lYY2hsWHZ1Z3RjYXRyUnNwK2IvdEJPZ0x5UkdhdmxNOFl5WFd3bjU5SDBXdFI4dmJ6NGxqM0ZBeUlETllyazBaQVUrS1BVOUtOOUNBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.20/Tumbler-0.5.20.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmtYZkowVHdVZDFxRi9ESGVVb1diK0ZldlZKT2swMldwaTVJYzJCZ1ZaTFk2ZkdtNjVWc2thOHpXaEhZa3AxTUxmZEZMZEF3bUxpNEQ5aUJqR0d4R0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODk0Njg5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjBhcFNtQ0gyWThtNGVsdFJsQ01NYVR4MmJlbWQwZ09MZW1pNEFNRklFNHh5SzZsUFVORUJQdkNBNVE0aVhjRlNuRmdoQ3lXbnU0c004bzE5OXpmR0RBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.21/Tumbler-0.5.21.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmx5aG8rYXNnLytzMjloOHlkUE9MT2NxQmRLRXlPNnFrMHFibk9CRzdmQmZseGJWSWU1QTdQa0VDRDRGbEJUNDZ6TEE4L244d3lSQWVoTEU2QjRxQlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDcwNDI5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmVYcDdXTVI2c1lYY2hsWHZ1Z3RjYXRyUnNwK2IvdEJPZ0x5UkdhdmxNOFl5WFd3bjU5SDBXdFI4dmJ6NGxqM0ZBeUlETllyazBaQVUrS1BVOUtOOUNBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.20/Tumbler-0.5.20.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpkMExkMm1mTkdzc2MwN3RoQXRrRU9wYU9KZFREaVJzRzB0MDJyM0c2NTFmTE90UlpUZkk0bHJ4TitoQjlPNUthbHdJOG1NQVY4RDRjNlg1WmpBV2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDcxMjY0CWZpbGU6VHVtYmxlcl8wLjUuMjBfeDY0LXNldHVwLmV4ZQpocGZaVWZHT0xld0Rha21yVldrNW0rM2o0WVJEOEQ4dm1wUisrTk9xRldmbWxPWWwvVGJhaDZVZjJLWjdTVE9lK1NXQTNRVWVkNEVWMzhPOVNxbVhEdz09Cg==",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.20/Tumbler_0.5.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmtYZkowVHdVZDFxRi9ESGVVb1diK0ZldlZKT2swMldwaTVJYzJCZ1ZaTFk2ZkdtNjVWc2thOHpXaEhZa3AxTUxmZEZMZEF3bUxpNEQ5aUJqR0d4R0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODk0Njg5CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjBhcFNtQ0gyWThtNGVsdFJsQ01NYVR4MmJlbWQwZ09MZW1pNEFNRklFNHh5SzZsUFVORUJQdkNBNVE0aVhjRlNuRmdoQ3lXbnU0c004bzE5OXpmR0RBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.21/Tumbler-0.5.21.app.tar.gz"
     }
   }
 }
