@@ -1,19 +1,15 @@
 {
-  "version": "0.5.22",
-  "notes": "- Tumbler now offers (once) to become your default PDF app, so files opened\n  from email and Finder or Explorer land in Tumbler. Also available any time\n  in Settings.",
-  "pub_date": "2026-09-09T14:40:52Z",
+  "version": "0.6.0",
+  "notes": "- Digital signatures, with no third-party signing service. Tumbler creates\n  your signing identity on your own machine and keeps the private key in your\n  system keychain, then adds a real ISO-standard signature that Adobe Acrobat\n  and other readers can verify. File \u25b8 Digitally Sign & Save\u2026\n- Signatures can include a trusted timestamp from a free public service, so\n  the signing time is independently verifiable. It falls back to your\n  computer clock if you are offline. Turn it off in Settings if you prefer.\n- Click the status-bar shield to verify a signed document: it confirms the\n  document is unchanged, shows the signer, and lets you trust that signer so\n  future documents from them show as trusted.\n- Optional trust directory on getflanders.com: publish your signing\n  certificate so people you send documents to can confirm it belongs to your\n  email address. Only your public certificate is shared, never your key.",
+  "pub_date": "2026-09-09T21:43:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnFyV3dsamdNc1FwRmxvcTFsM2NnMDZSQS9ERXV6UFk2azdWNVdKNSszR3g4RlgrbDlmRWQ4R21BK2tyakMrS2Vaem5WNWNIRnYrNFpodm5sNnI4a3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY0ODQxCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmNVMk0xaEw0T2VSYnBDWUx6bUZOSk1HNHFoaTQ0SDlmMEVNTnA5SEpKT0FYUHkwNktlWldtNytqQmsxY1FYaktaUjdpNDMxYnpxQ3VsSDJWaFpYZ0FBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.22/Tumbler-0.5.22.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSml1a1poaFdWd1MwSkR2ZVluYUlqb05sSC9iOHJaK3NnbC9UOXlCMlZNS2UvWFFBVWFuT1g0WG1xWTdab000N2lwVVduY0NkZmlPdlR6aUpEYlNHdUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkwMjEwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClVvTW4zWlZLU3oyM054aDJwd3RSd1J2OCsvQW9yQmZMTjdXOWZJSUNWM0tnbmplTy9WTm9vcmMxMG5KYlE0K29xaFcrOStmYlN2dGhiZ3FrWEJHc0NRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.0/Tumbler-0.6.0.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnFyV3dsamdNc1FwRmxvcTFsM2NnMDZSQS9ERXV6UFk2azdWNVdKNSszR3g4RlgrbDlmRWQ4R21BK2tyakMrS2Vaem5WNWNIRnYrNFpodm5sNnI4a3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY0ODQxCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmNVMk0xaEw0T2VSYnBDWUx6bUZOSk1HNHFoaTQ0SDlmMEVNTnA5SEpKT0FYUHkwNktlWldtNytqQmsxY1FYaktaUjdpNDMxYnpxQ3VsSDJWaFpYZ0FBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.22/Tumbler-0.5.22.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm9XcEVBNURZSDA1dWs3UkRkYnRSWHNNNEZsK1FTTkNlUTV1V0ZNR0RvZWJFYWR1cUpUVXRVTVd1MXRNcFJxQVFCcmpobjVBM2dOaTlTMFlYaEV6L3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY1NjA0CWZpbGU6VHVtYmxlcl8wLjUuMjJfeDY0LXNldHVwLmV4ZQphRXMxNDJlNGdKd2owanZxUkI2YXErWUliVzkzSStlN2NMY3Y1UWhmNStxTkw0TU9oSXFFOHhUcHNGc0JuZk9kbE9NZXpnY2V5VnZjRnhpU3ZWNEtEUT09Cg==",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.5.22/Tumbler_0.5.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSml1a1poaFdWd1MwSkR2ZVluYUlqb05sSC9iOHJaK3NnbC9UOXlCMlZNS2UvWFFBVWFuT1g0WG1xWTdab000N2lwVVduY0NkZmlPdlR6aUpEYlNHdUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkwMjEwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6ClVvTW4zWlZLU3oyM054aDJwd3RSd1J2OCsvQW9yQmZMTjdXOWZJSUNWM0tnbmplTy9WTm9vcmMxMG5KYlE0K29xaFcrOStmYlN2dGhiZ3FrWEJHc0NRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.0/Tumbler-0.6.0.app.tar.gz"
     }
   }
 }
