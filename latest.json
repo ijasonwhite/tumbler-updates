@@ -1,19 +1,15 @@
 {
-  "version": "0.6.5",
-  "notes": "- You can now drag and drop files straight onto the page list to add pages\n  where you drop them. Images come in as one page each, PDFs are inserted just\n  like before, and Word (.docx) documents are converted and added as as many\n  pages as they need. A marker shows where the new pages will land, and it is\n  all a single undo.",
-  "pub_date": "2026-09-11T15:56:46Z",
+  "version": "0.6.6",
+  "notes": "- Adding dropped files now shows clear, step-by-step progress: which file is\n  being added, how far through the batch you are, and, for Word documents, the\n  conversion and page-by-page build. It no longer looks like it might have\n  stalled while a larger document is being put together.",
+  "pub_date": "2026-09-11T19:36:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnVRV0w0ZVJuWEhPaDI3M1JCQjRxZCtGUVljRzEyMWZ1NWtxOGx6cjZFdExzcGg2akgybU5sZzhTTDk4MEdOYWhVU3RZY2ZvcEZqZXpIY0dwWU1sOXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQyMTY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CllFVC9ab0hLU0xwd3ZUMEdadEZLM0tyUEZyZzR3L0xNb1dsQ3BiUHVkY2RONTJ5R0llOTd4SHQ3M2w0RGZmVW03ZjRaQzVKRnp3QmR0RFQ4SGk2a0F3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.5/Tumbler-0.6.5.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJqTVVMc1N4NHNYRDhqZUFtMzB1UWxTbTVqZTQ3a0ZSMnBtbDBFUks2bW03QWpSdjRidWZLTXVVWkpVcTdUQW14QTYzMlhGampFVVdINDNrUXpwQ0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU1Mzk1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjVKclJTQk1TdXpDTGZ6WUI5ZVhGeFdBc1duQmovQ2txLzQ5bUIrTW1BVnk4bXZPcFZ3UTR1UW9ReEJTcXVYcFpjdXJGSEFpbFpnVXZOTm1nTFZ1dERRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.6/Tumbler-0.6.6.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnVRV0w0ZVJuWEhPaDI3M1JCQjRxZCtGUVljRzEyMWZ1NWtxOGx6cjZFdExzcGg2akgybU5sZzhTTDk4MEdOYWhVU3RZY2ZvcEZqZXpIY0dwWU1sOXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQyMTY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CllFVC9ab0hLU0xwd3ZUMEdadEZLM0tyUEZyZzR3L0xNb1dsQ3BiUHVkY2RONTJ5R0llOTd4SHQ3M2w0RGZmVW03ZjRaQzVKRnp3QmR0RFQ4SGk2a0F3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.5/Tumbler-0.6.5.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmxqRERteEVFaUhBaFZyeklnQmZGRlFtb1hkNThBMW1BSmZZbUVZL3QyNUJZblBZLytrSzl0V1FlKzJQbS9nbGpRYVVNQ2tEZUdIRmRCaXhOeThDamdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQzMDczCWZpbGU6VHVtYmxlcl8wLjYuNV94NjQtc2V0dXAuZXhlCm56cE1LZm9YYytDOFJNSi83STZpZHI3bnZRcUxYK0RTT3NvNk9ZYjRtWkJGZnBUTHBMdG84ZWNkMTlpbVdxM29uTU05ZTRlMGlqaU9iTWRyWFNhZ0N3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.5/Tumbler_0.6.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJqTVVMc1N4NHNYRDhqZUFtMzB1UWxTbTVqZTQ3a0ZSMnBtbDBFUks2bW03QWpSdjRidWZLTXVVWkpVcTdUQW14QTYzMlhGampFVVdINDNrUXpwQ0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU1Mzk1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjVKclJTQk1TdXpDTGZ6WUI5ZVhGeFdBc1duQmovQ2txLzQ5bUIrTW1BVnk4bXZPcFZ3UTR1UW9ReEJTcXVYcFpjdXJGSEFpbFpnVXZOTm1nTFZ1dERRPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.6/Tumbler-0.6.6.app.tar.gz"
     }
   }
 }
