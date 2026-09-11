@@ -1,19 +1,15 @@
 {
-  "version": "0.6.4",
-  "notes": "- New option to shrink form text to fit its field. When an answer is too long\n  for its box, the text steps down in size to fit instead of overflowing, and\n  that size is saved into the PDF. Short answers keep their normal size. It is\n  off by default: turn it on under Settings.",
-  "pub_date": "2026-09-11T14:57:42Z",
+  "version": "0.6.5",
+  "notes": "- You can now drag and drop files straight onto the page list to add pages\n  where you drop them. Images come in as one page each, PDFs are inserted just\n  like before, and Word (.docx) documents are converted and added as as many\n  pages as they need. A marker shows where the new pages will land, and it is\n  all a single undo.",
+  "pub_date": "2026-09-11T15:56:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpWQ2ZiYWN1bXNWZC9LK1FxUFNNempWMGVoUE5ET201R2ZpSlVUeENFMjdEcXV0MHNrNWtkUEQweDdKYXpYSFBiSUxQeXk4UXdNNndKQzg0Vm45SWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM4NjI1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmZZWUZFZHh1RXcrdW9qQ05pR2Jjdk5za200RmVEQ1NVcFVickdKSXQxZXVJWnhOd3VoUFBzR2FqWVlud2ZOU2E1ZUEzQ2tFZjMvRm1UQXp6WVNSMUFBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.4/Tumbler-0.6.4.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnVRV0w0ZVJuWEhPaDI3M1JCQjRxZCtGUVljRzEyMWZ1NWtxOGx6cjZFdExzcGg2akgybU5sZzhTTDk4MEdOYWhVU3RZY2ZvcEZqZXpIY0dwWU1sOXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQyMTY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CllFVC9ab0hLU0xwd3ZUMEdadEZLM0tyUEZyZzR3L0xNb1dsQ3BiUHVkY2RONTJ5R0llOTd4SHQ3M2w0RGZmVW03ZjRaQzVKRnp3QmR0RFQ4SGk2a0F3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.5/Tumbler-0.6.5.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpWQ2ZiYWN1bXNWZC9LK1FxUFNNempWMGVoUE5ET201R2ZpSlVUeENFMjdEcXV0MHNrNWtkUEQweDdKYXpYSFBiSUxQeXk4UXdNNndKQzg0Vm45SWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM4NjI1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmZZWUZFZHh1RXcrdW9qQ05pR2Jjdk5za200RmVEQ1NVcFVickdKSXQxZXVJWnhOd3VoUFBzR2FqWVlud2ZOU2E1ZUEzQ2tFZjMvRm1UQXp6WVNSMUFBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.4/Tumbler-0.6.4.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnZEekV6RHZYYTkyOGJvWC9UYnM2YnB4cGZoamxMdkRYWTVpNmhvUWVpaVVyaW9UekQ0aE8rcG52MFE2eHZFL1F6Z0Z3Y3oyUUJESnBhSnpTVS9ydHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM5NTA0CWZpbGU6VHVtYmxlcl8wLjYuNF94NjQtc2V0dXAuZXhlCk5MaDd2QXRqUVJ6NTlNQjZpUEdYdnJkeHJyNWJXdzdMemlTNXg4SXMxN2ZSaDlVMmNrR3dQZmgreEpNQW5KVzdLazVENnBoQTNpTUorRFdpRnZLdENBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.4/Tumbler_0.6.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnVRV0w0ZVJuWEhPaDI3M1JCQjRxZCtGUVljRzEyMWZ1NWtxOGx6cjZFdExzcGg2akgybU5sZzhTTDk4MEdOYWhVU3RZY2ZvcEZqZXpIY0dwWU1sOXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQyMTY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CllFVC9ab0hLU0xwd3ZUMEdadEZLM0tyUEZyZzR3L0xNb1dsQ3BiUHVkY2RONTJ5R0llOTd4SHQ3M2w0RGZmVW03ZjRaQzVKRnp3QmR0RFQ4SGk2a0F3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.5/Tumbler-0.6.5.app.tar.gz"
     }
   }
 }
