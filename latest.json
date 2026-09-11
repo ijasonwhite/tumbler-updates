@@ -1,19 +1,15 @@
 {
-  "version": "0.6.3",
-  "notes": "- Fixed form fields not appearing on some official forms (for example court\n  forms with a \"Clear\" button). A button on the form no longer stops the\n  other fields from showing, so every field is fillable again.",
-  "pub_date": "2026-09-11T14:02:44Z",
+  "version": "0.6.4",
+  "notes": "- New option to shrink form text to fit its field. When an answer is too long\n  for its box, the text steps down in size to fit instead of overflowing, and\n  that size is saved into the PDF. Short answers keep their normal size. It is\n  off by default: turn it on under Settings.",
+  "pub_date": "2026-09-11T14:57:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpWZE1VdTNKQiszcmo4UGtydWRjTFRFK2phTG96ZHNiY2ZSTjc5cFZ6SFNIV1pNMEVpQkg3WnoyWm1za0ZzSlY4MFFoZnBnNDEwZlB3Y0RuLytiMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM1MzE2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6Cm50dWh1VGpYeEJsT0pTZEl5UFdwTnpMK0hnWm5rR0x4dmZHRS8ramNnU3RYSjZOaUpHc1pkZTZ6SjJtNEtyQ3lqZ3hQZy9aZjhPUmpPYmxLMkJFNEFnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.3/Tumbler-0.6.3.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpWQ2ZiYWN1bXNWZC9LK1FxUFNNempWMGVoUE5ET201R2ZpSlVUeENFMjdEcXV0MHNrNWtkUEQweDdKYXpYSFBiSUxQeXk4UXdNNndKQzg0Vm45SWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM4NjI1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmZZWUZFZHh1RXcrdW9qQ05pR2Jjdk5za200RmVEQ1NVcFVickdKSXQxZXVJWnhOd3VoUFBzR2FqWVlud2ZOU2E1ZUEzQ2tFZjMvRm1UQXp6WVNSMUFBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.4/Tumbler-0.6.4.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpWZE1VdTNKQiszcmo4UGtydWRjTFRFK2phTG96ZHNiY2ZSTjc5cFZ6SFNIV1pNMEVpQkg3WnoyWm1za0ZzSlY4MFFoZnBnNDEwZlB3Y0RuLytiMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM1MzE2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6Cm50dWh1VGpYeEJsT0pTZEl5UFdwTnpMK0hnWm5rR0x4dmZHRS8ramNnU3RYSjZOaUpHc1pkZTZ6SjJtNEtyQ3lqZ3hQZy9aZjhPUmpPYmxLMkJFNEFnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.3/Tumbler-0.6.3.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnBsZEdueXd3Q1VyZnpQNkxPWWdTMEZJYTRGQ1M3LzJpNzJITkNDUXlvdGIwS0x0aWQwSGlWeDdNK3pqYzFaOFAyVDdvNGxMalgvcG5hb0JIM1RRVUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM2MjE0CWZpbGU6VHVtYmxlcl8wLjYuM194NjQtc2V0dXAuZXhlCmZZTDFDem5WSmJSQi9iVGttRFF6Vk5iemp5ZVo1SWJUK1JHRk5sZUxoZGtabjZ4Zkt0SzNoMENTQVNBU2haUXFKVGFXMDBRSkFtSXNnYXFiTStlUERnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.3/Tumbler_0.6.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmpWQ2ZiYWN1bXNWZC9LK1FxUFNNempWMGVoUE5ET201R2ZpSlVUeENFMjdEcXV0MHNrNWtkUEQweDdKYXpYSFBiSUxQeXk4UXdNNndKQzg0Vm45SWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM4NjI1CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmZZWUZFZHh1RXcrdW9qQ05pR2Jjdk5za200RmVEQ1NVcFVickdKSXQxZXVJWnhOd3VoUFBzR2FqWVlud2ZOU2E1ZUEzQ2tFZjMvRm1UQXp6WVNSMUFBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.4/Tumbler-0.6.4.app.tar.gz"
     }
   }
 }
