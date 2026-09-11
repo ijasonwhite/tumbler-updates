@@ -1,19 +1,15 @@
 {
-  "version": "0.6.1",
-  "notes": "- You can now remove Bates numbering. Bundle \u25b8 Remove Bates Numbering strips\n  labels Tumbler added, so after a last-minute change you can re-number\n  without rebuilding the document.\n- Bates labels no longer alter the page underneath them, which is what makes\n  clean removal possible. An optional white background keeps each label\n  legible over content.",
-  "pub_date": "2026-09-11T12:54:51Z",
+  "version": "0.6.2",
+  "notes": "- Resizing a signature, stamp or image now keeps its proportions by default,\n  so it no longer stretches out of shape. Hold Shift while dragging the corner\n  if you deliberately want to stretch it.",
+  "pub_date": "2026-09-11T13:10:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmlVTk5kbVBYT2VpcmRNNDU5djFaUTgyRDMrSXRxdXJpY25VL1NodmdncXhNaXBkazhYWURET0RCV1ZuOWpYa3YvbXBDN3ZnU0F5QTlubkZ6ZVlaWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTMxMjQwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6Cmplay9xNFpIQzIzM1N5NVpzTmtvTGYzZjRvRzdZM05pVEF5T1ZlT1E0b2E4cG83VFJmK1hleTN6Wm90emtnMkdROUprVnZxQ3o3NUg3MW50OFNlTURnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.1/Tumbler-0.6.1.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmw4bVlxbkpVQmF0K3JjNnlBNUtYYWpzQkNOaXlVRFpTOFhXUzFKNjRTLzdlWXU5QXZkU2VFbEZid1pLTmMrUlhCR2ZIekFVQ2hwUjVtUVpXaWFEQ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTMyMjAxCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkZad0w0bGpMVlp3eFFUUjJobTdRYysvamprZ3QzR2lubmg1Zy9sV0ZCOXJWN01vUEVBcm9KcmZ6RCsyYXl4M01MMFNidkhGeWRaS2tLeUIyWkRXQ0N3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.2/Tumbler-0.6.2.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmlVTk5kbVBYT2VpcmRNNDU5djFaUTgyRDMrSXRxdXJpY25VL1NodmdncXhNaXBkazhYWURET0RCV1ZuOWpYa3YvbXBDN3ZnU0F5QTlubkZ6ZVlaWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTMxMjQwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6Cmplay9xNFpIQzIzM1N5NVpzTmtvTGYzZjRvRzdZM05pVEF5T1ZlT1E0b2E4cG83VFJmK1hleTN6Wm90emtnMkdROUprVnZxQ3o3NUg3MW50OFNlTURnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.1/Tumbler-0.6.1.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnRCOHY2QUtsZnBPbTFiQjhaVDBRb09QRVBRWVgwTTdsVFM1QWZmbkc2Tm13ZlFiSnBUM3F4aEtWdHBsZm8yOEw2NzAydlUwQVdQT1BxNkUwQ2h1d3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTMxODAyCWZpbGU6VHVtYmxlcl8wLjYuMV94NjQtc2V0dXAuZXhlCjdFRXdwN3VZUkNScUdWT0xaNGhxdFAxUjRIcnFzbE1qNElxUWlwME5tdGdRUDJybUUyODB0bWdVRFYyWmR6bjkwVXBSM1ZhUEQ4bEFRamsvK0w1R0FnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.1/Tumbler_0.6.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmw4bVlxbkpVQmF0K3JjNnlBNUtYYWpzQkNOaXlVRFpTOFhXUzFKNjRTLzdlWXU5QXZkU2VFbEZid1pLTmMrUlhCR2ZIekFVQ2hwUjVtUVpXaWFEQ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTMyMjAxCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkZad0w0bGpMVlp3eFFUUjJobTdRYysvamprZ3QzR2lubmg1Zy9sV0ZCOXJWN01vUEVBcm9KcmZ6RCsyYXl4M01MMFNidkhGeWRaS2tLeUIyWkRXQ0N3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.2/Tumbler-0.6.2.app.tar.gz"
     }
   }
 }
