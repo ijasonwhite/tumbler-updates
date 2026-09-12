@@ -1,19 +1,15 @@
 {
-  "version": "0.6.7",
-  "notes": "- Adding dropped pages to a large document is now much faster. New pages are\n  appended to the file rather than rewriting the whole document, so dropping\n  images, PDFs or Word files into a big bundle no longer pauses while the\n  document is rebuilt.",
-  "pub_date": "2026-09-11T19:57:14Z",
+  "version": "0.6.8",
+  "notes": "- You can now add form fields to a PDF. Pick the Form field tool, draw a box\n  where you want it, and choose the type: text box, multi-line text area,\n  checkbox, radio buttons, dropdown, list box, button, or signature field. The\n  new field is ready to fill straight away, and adding one is a single undo.",
+  "pub_date": "2026-09-12T21:08:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm5Eb3hWK21TS3F5UWswV1NSTHRQb1IzNnpzSDZCeUQxVEplU1lTMi81aHJ2SS94SUYza2RGTEx2RHdJc0VCejluckYyTnE5UndBdFAyT29TejZ3NHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU2NjIyCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkwxRkF2N1VIZkZtT1MxcDVtaURrWlJqSjcyNTdUOVV5N3lyNzY4aXRoK2dyc2owWXE5REVsZkI2Y3pJOTNKVnA4ZU5PVEZEbGxVZUQweTBSV0NibUJBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.7/Tumbler-0.6.7.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmtVMDF2V3dOaUh3SmVYZVlQQU5XckRONWFwanNEb25lV09LNXJkTmhlaXpNTkVsV1p0WVczeXBCdnNhWHVRSWNGN2JJYkJGM0M4ckdvK3JrVDl3cXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjQ3Mjc3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CllLT1d0M2gyVi9NaWJTbWlwV3pjVEplYmRPQnFYOEVSVHljcU5NQmp3aWZHWXgxZnUxTmQzeS9xZEp3Y2k2RUo5VFAwYzIvYXFXdjNEdVd2eHJoU0RnPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.8/Tumbler-0.6.8.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSm5Eb3hWK21TS3F5UWswV1NSTHRQb1IzNnpzSDZCeUQxVEplU1lTMi81aHJ2SS94SUYza2RGTEx2RHdJc0VCejluckYyTnE5UndBdFAyT29TejZ3NHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU2NjIyCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CkwxRkF2N1VIZkZtT1MxcDVtaURrWlJqSjcyNTdUOVV5N3lyNzY4aXRoK2dyc2owWXE5REVsZkI2Y3pJOTNKVnA4ZU5PVEZEbGxVZUQweTBSV0NibUJBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.7/Tumbler-0.6.7.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmo2NlZNUEdOK1BkTjB3Rk9hUlFlRXZRb2NYc1RqQ3VzSWJzZnltaDdtSTNkZm50UitlNWs1ZWpqNEV2ckN6TEFUdTNCbEV0V3RzdUQ3d3BBY2puamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU3MzE0CWZpbGU6VHVtYmxlcl8wLjYuN194NjQtc2V0dXAuZXhlCkJkb0R5NTVHNVB2cGVoYVpxdkQyd0RUbVhNcVVBZjNDNG00SG5yYkhqK21WNG1yeXlaNTdLQ2JGdGYvYVkrcXp0eWU4VmE3QUN5cDBQcXArY3ZkV0J3PT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.7/Tumbler_0.6.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmtVMDF2V3dOaUh3SmVYZVlQQU5XckRONWFwanNEb25lV09LNXJkTmhlaXpNTkVsV1p0WVczeXBCdnNhWHVRSWNGN2JJYkJGM0M4ckdvK3JrVDl3cXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjQ3Mjc3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CllLT1d0M2gyVi9NaWJTbWlwV3pjVEplYmRPQnFYOEVSVHljcU5NQmp3aWZHWXgxZnUxTmQzeS9xZEp3Y2k2RUo5VFAwYzIvYXFXdjNEdVd2eHJoU0RnPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.6.8/Tumbler-0.6.8.app.tar.gz"
     }
   }
 }
