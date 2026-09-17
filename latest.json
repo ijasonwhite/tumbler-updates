@@ -1,19 +1,15 @@
 {
-  "version": "0.7.0",
-  "notes": "- You can now drop more file types onto the page list. Excel spreadsheets come\n  in as tidy tables, PowerPoint decks add one page per slide, and Outlook and\n  other emails (.msg and .eml) drop in with the subject, sender, recipients and\n  message on the page. Each is added where you drop it, as a single undo.",
-  "pub_date": "2026-09-16T20:24:16Z",
+  "version": "0.7.1",
+  "notes": "- Dropped emails now show the actual message text. Previously an email whose\n  body was encoded (most real emails are) could come through as pages of\n  gibberish; the reader now decodes the message properly, picks the readable\n  text, and wraps long links so nothing runs off the page.",
+  "pub_date": "2026-09-17T19:09:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJzbkI5TlB4Yk1mWWpMODFacWFPNHYvTnBUSVBndy9sMVh1MDZRV01sSUt6aGczY3JVN1AyY3pvT2lXbVYwcFVyOXNzNWtXc1ZxYnZmaUZYbFMyUWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTkwMjQ3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6Cms0UGt1UjZxM1liRnAvYzR3SkJ2QlR0MG81K2VTTDZIVWlFdUhManNLdUtDWnhTY2U2VXBkb0ovY210MWxZQnhRcWxHSUNsV2JlT0YxYmJLTUdtdkRBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.7.0/Tumbler-0.7.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmx0cXBEVnVQQUNGeWk0QXUvdXMrQUhNSFlYRHAra1ZPT3lTUHlRSEw2OWcxWmVic2UwNm5BY1RsSEkyQTlpcGgrZkk5Mkw4WlhJaEdEdC96STBrZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcyMDcwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjZ5eFdrVU94YnlrL3lRU0xlaEU1WjkvdjIzYXk1R0NmaXI1cnQxOEJmVlF2S2xaTGdkUDEvTTM3OWNvbkdFalByNHVTam1VeHZVeGFOdnpTbHphcEFBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.7.1/Tumbler-0.7.1.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnJzbkI5TlB4Yk1mWWpMODFacWFPNHYvTnBUSVBndy9sMVh1MDZRV01sSUt6aGczY3JVN1AyY3pvT2lXbVYwcFVyOXNzNWtXc1ZxYnZmaUZYbFMyUWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTkwMjQ3CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6Cms0UGt1UjZxM1liRnAvYzR3SkJ2QlR0MG81K2VTTDZIVWlFdUhManNLdUtDWnhTY2U2VXBkb0ovY210MWxZQnhRcWxHSUNsV2JlT0YxYmJLTUdtdkRBPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.7.0/Tumbler-0.7.0.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmppaytwQnBKSXpyaXFrOHRZRDJZdm9NSkNEWmRYa2tBYnhLbDJUYmQ0MDc3N0V6LzkwcGVZYU9YTHQvbDBEcUdhMDlPZ25CcjFRYnJlQSs5Y0FqMEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTkxMTI1CWZpbGU6VHVtYmxlcl8wLjcuMF94NjQtc2V0dXAuZXhlCmRwSTlqNElvcExCdlRyNk82TjEvaFgxVzNkVlZReVh2OUFNMEl1bExpa1VTVlpSTWdyemNjbmcyekZYd25Gd2xLdzc1dURpQkIvUnhLRFVHZ1Y4UUNnPT0K",
-      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.7.0/Tumbler_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmx0cXBEVnVQQUNGeWk0QXUvdXMrQUhNSFlYRHAra1ZPT3lTUHlRSEw2OWcxWmVic2UwNm5BY1RsSEkyQTlpcGgrZkk5Mkw4WlhJaEdEdC96STBrZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcyMDcwCWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CjZ5eFdrVU94YnlrL3lRU0xlaEU1WjkvdjIzYXk1R0NmaXI1cnQxOEJmVlF2S2xaTGdkUDEvTTM3OWNvbkdFalByNHVTam1VeHZVeGFOdnpTbHphcEFBPT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.7.1/Tumbler-0.7.1.app.tar.gz"
     }
   }
 }
