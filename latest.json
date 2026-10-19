@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSnVSNmRBK3ZpM1FsdmMzVlVWeGpyd0t2eTBOeVpTRUdEYUowRGZ1L1ZjS2Vra0F0Q3JxeU51MmV3MzJTa1MrTXJOQ3JhNEEvSE9YbUdDUTEzb1FVUFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDAyOTY2CWZpbGU6VHVtYmxlci5hcHAudGFyLmd6CmdyUVRvVUhHZzM0QjJQRVl4aXpMZ2JYeEFhMG9KUFRRR0xDVEttNThUU2ErR2ZKR0gyeFNrUnpBT0Izc1V1VXU2WGk5WWtLTE5pVEVnY1BDTWd3VEFRPT0K",
       "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.8.1/Tumbler-0.8.1.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZwWVpCbVhKSmlYOE9CZGNxYUxQNERpNDVFcGw1N2IzYktINjgrejdLaDBiNDNnQjBVYU82NFdQcTdmdU9Hd2tsV2I5R01OLzVtNG5RZ2RhYlpKVGZOcHVMV2RoWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQ2NTQ2CWZpbGU6VHVtYmxlcl8wLjguMV94NjQtc2V0dXAuZXhlCmpjSnBnWDNud1NoRDd3NkhPcDllZkRKQjlBZmZwdXlGVTdIT0o4SGxGbXZIV0NlS3VucXdweGR2QkJNNjNDZGhQeTg3cUNZakR1UVJlcERsUUZMOEJ3PT0K",
+      "url": "https://github.com/ijasonwhite/tumbler-updates/releases/download/v0.8.1/Tumbler_0.8.1_x64-setup.exe"
     }
   }
 }
